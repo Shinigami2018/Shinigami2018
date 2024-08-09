@@ -1,4 +1,4 @@
-### Hi! I am Sameen
+# Hi! I am Sameen
 
 - **Education** </br> Studying CSE at the Military Institute of Science and Technology
 - **Interests**
