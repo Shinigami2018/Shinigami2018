@@ -1,16 +1,16 @@
-## Hi there 👋
+### Hi! I am Sameen
 
-<!--
-**Shinigami2018/Shinigami2018** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **Education** </br> Studying CSE at the Military Institute of Science and Technology
+- **Interests**
+  - Tech Enthusiast
+  - Video Game Nerd
+  - Writer
+- **Languages**</br>
+   C, C++, Python, HTML, CSS, Javascript
 
-Here are some ideas to get you started:
+![](https://github-readme-stats.vercel.app/api?username=Shinigami2018&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Other Places to Find Me**
+  - [Instagram](https://www.instagram.com/apurbo2018?igsh=MmluN2R2bGp5NHBw)
+  - [Website](https://sites.google.com/view/stories-by-sameen)
+  - [YouTube](https://www.youtube.com/@samonhunt2018)
