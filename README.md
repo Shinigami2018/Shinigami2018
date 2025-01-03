@@ -6,7 +6,7 @@
   - Video Game Nerd
   - Writer
 - **Languages**</br>
-   C, C++, Python, HTML, CSS, Javascript
+   C, C++, Java, Python, HTML, CSS, Javascript
 
 ![](https://github-readme-stats.vercel.app/api?username=Shinigami2018&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
