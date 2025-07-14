@@ -8,7 +8,6 @@
 - **Languages**</br>
    C, C++, Java, Python, HTML, CSS, Javascript
 
-![](https://github-readme-stats.vercel.app/api?username=Shinigami2018&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
 - **Other Places to Find Me**
   - [Instagram](https://www.instagram.com/apurbo2018?igsh=MmluN2R2bGp5NHBw)
